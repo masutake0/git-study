@@ -1,3 +1,4 @@
-# scrayping  
+# スクレイピング  
 言語
-html
+python  
+使用ライブラリ
